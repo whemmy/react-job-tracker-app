@@ -1,10 +1,5 @@
 import React from 'react'
-import {
-  faLocationArrow,
-  FaBriefcase,
-  FaCalendarAlt,
-  FaLocationArrow,
-} from 'react-icons/fa'
+import { FaBriefcase, FaCalendarAlt, FaLocationArrow } from 'react-icons/fa'
 import { Link } from 'react-router-dom'
 import Wrapper from '../assets/wrappers/Job'
 import { useDispatch } from 'react-redux'

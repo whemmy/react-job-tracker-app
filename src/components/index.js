@@ -7,6 +7,9 @@ import FormRowSelect from './FormRowSelect'
 import JobsContainer from './JobsContainer'
 import SearchContainer from './SearchContainer'
 import Job from './Job'
+import ChartsContainer from './ChartsContainer'
+import StatsContainer from './StatsContainer'
+import StatItem from './StatItem'
 
 export {
   Logo,
@@ -18,4 +21,7 @@ export {
   JobsContainer,
   SearchContainer,
   Job,
+  ChartsContainer,
+  StatsContainer,
+  StatItem,
 }
